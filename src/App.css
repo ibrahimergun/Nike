@@ -1,0 +1,26 @@
+.App {
+  max-height: 900px;
+}
+.App-logo {
+  background-size: 100% 100%;
+  margin-left: 44px;
+  margin-top: 37px;
+  height: 30px;
+  width: 85px;
+}
+
+.group-container {
+  align-items: flex-start;
+  display: flex;
+  overflow: hidden;
+  margin-top: 20px;
+  padding: 0 20px;
+  position: relative;
+  width: 1440px;
+}
+
+.overlap-group4 {
+  align-items: flex;
+  left: 113px;
+  width: 1121px;
+}

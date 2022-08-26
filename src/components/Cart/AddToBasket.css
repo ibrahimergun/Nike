@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:700,500,700italic');
+
+.basket-container {
+  color: black;
+  font-weight: 500;
+  margin-left: 1150px;
+  margin-top: -100px;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 130px;
+  width: 302px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.basket-group {
+  height: 38px;
+  position: relative;
+  width: 282px;
+}
+
+.size-selector {
+  left: 0;
+  min-width: 282px;
+  background-color: rgb(250, 250, 250);
+  height: 30px;
+  font-size: 19px;
+  border: none
+}
+
+.line {
+  background-color: black;
+  height: 1px;
+  left: 0;
+  opacity: 0.1;
+  position: absolute;
+  top: 37px;
+  width: 282px;
+}
+
+.flex-row {
+  align-items: center;
+  display: flex;
+  margin-right: -3.15px;
+  margin-top: 22px;
+  min-width: 305px;
+}
+
+.price {
+  font-size: 30px;
+  font-weight: 500;
+  letter-spacing: 3px;
+  line-height: 38px;
+  margin-left: 39px;
+  min-height: 38px;
+  min-width: 82px;
+  white-space: nowrap;
+}

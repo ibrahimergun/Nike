@@ -1,0 +1,13 @@
+.icon-button {
+  margin-left: 17px;
+  background-color: Transparent;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.icon-container {
+margin-top: -123px;
+margin-left: 190px;
+}

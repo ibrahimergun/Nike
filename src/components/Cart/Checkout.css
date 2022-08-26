@@ -1,0 +1,28 @@
+.icon-cart {
+  margin-left: 50px;
+  height: 38px;
+  width: 48px;
+}
+
+.cart-button {
+  background-color: Transparent;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.cart-badge {
+  background: rgb(109, 110, 112);
+  margin-left: 71px;
+  margin-top: -8px;
+  border-radius: 90px;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  content: attr(badge);
+  font-size: 15px;
+  min-width: 19px;
+  padding: 2px;
+  position: absolute;
+  text-align: center;
+}
